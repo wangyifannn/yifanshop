@@ -65,7 +65,7 @@
         </modal>
         <!--在登陆的情况下-->
         <modal :mdShow="mdShowCart">
-            <p slot="message">已经登录，请选择</p>
+            <p slot="message">已登录，请选择</p>
             <div slot = "btnGroup">
                 <a href="javascript:;" class="btn btn--m" @click="mdShowCart = false">继续购物</a>
                 <router-link class="btn btn--m" to="/cart">查看购物车列表</router-link>
