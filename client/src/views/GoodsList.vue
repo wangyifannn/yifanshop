@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavHeader/>
-        <bread>商品列表</bread>
+        <bread>商品列表goodsList</bread>
         <div class="accessory-result-page accessory-page">
             <div class="container">
                 <div class="filter-nav">
