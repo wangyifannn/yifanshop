@@ -11,7 +11,7 @@
                         <a class="btn-category-list" href="catalog.php" style="display:none;">全部商品分类</a>
                     </li>
                     <li class="nav-item">
-                        <a class="link" href="category.php?id=76"><span>商城。。。。</span></a>
+                        <a class="link" href="category.php?id=76"><span>wangyifandeshangcheng</span></a>
                         <div class='item-children'>
                         </div>
                     </li>
